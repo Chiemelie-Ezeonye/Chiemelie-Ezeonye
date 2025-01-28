@@ -1,4 +1,10 @@
-## Hi there 👋
+# About Me
+
+Hi, I am Chiemelie Ezeonye, a skilled Cloud Security Analyst with extensive experience in securing cloud environments, particularly within AWS and Azure platforms. My expertise includes designing and implementing secure cloud infrastructures, managing Identity and Access Management (IAM) policies, and deploying Web Application Firewalls (WAF). I am passionate about safeguarding sensitive data and ensuring compliance with industry regulations like HIPAA and GDPR.
+
+Throughout my career, I've led security projects, conducted risk assessments, and responded to incidents to ensure the integrity of cloud-based systems. I am always learning about new threats and evolving security practices to stay ahead in the ever-changing landscape of cybersecurity.
+
+Feel free to reach out to me for insights into cloud security or potential collaborations in securing cloud infrastructures.
 
 <!--
 **Chiemelie-Ezeonye/Chiemelie-Ezeonye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
